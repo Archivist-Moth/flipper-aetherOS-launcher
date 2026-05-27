@@ -46,7 +46,7 @@ Uses the Run dialog (`Win+R`) to launch the URL directly — works regardless of
 
 ---
 
-## Tier 2: Login automation (future goal)
+## Future Goal: Login automation
 
 A future script variant could automate the Bluesky login flow inside Aether OS using `MOUSEMOVE` and `LEFTCLICK`. This is feasible but fragile — mouse coordinates depend on screen resolution, browser window size, and zoom level, and Aether OS is actively in development (UI may change).
 
