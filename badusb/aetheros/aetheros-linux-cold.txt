@@ -1,0 +1,8 @@
+REM AetherOS Launcher - Linux Cold Start
+REM Opens terminal via Ctrl+Alt+T then launches default browser with xdg-open
+REM Ctrl+Alt+T is default on Ubuntu, Pop!_OS, Linux Mint, and most GNOME/KDE distros
+REM Tune DELAY after CTRL ALT t if terminal opens slowly (try 2000-2500ms)
+CTRL ALT t
+DELAY 1500
+STRING xdg-open https://www.aetheros.computer/
+ENTER

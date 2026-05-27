@@ -1,0 +1,8 @@
+REM AetherOS Launcher - macOS Cold Start
+REM Opens default browser via Spotlight (macOS Ventura 13+ recommended)
+REM Tune DELAY after GUI SPACE if Spotlight is slow (try 1000-1200ms)
+GUI SPACE
+DELAY 800
+STRING https://www.aetheros.computer/
+DELAY 300
+ENTER

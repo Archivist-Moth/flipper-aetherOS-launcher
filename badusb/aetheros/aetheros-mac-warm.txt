@@ -1,0 +1,7 @@
+REM AetherOS Launcher - macOS Warm Start
+REM Focuses browser address bar (browser must already be open and frontmost)
+REM Works with Chrome, Safari, Firefox, Arc, and most browsers
+GUI l
+DELAY 400
+STRING https://www.aetheros.computer/
+ENTER

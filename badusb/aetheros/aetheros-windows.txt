@@ -1,0 +1,7 @@
+REM AetherOS Launcher - Windows
+REM Opens default browser via Run dialog (Win+R)
+REM Works whether a browser is open or not
+GUI r
+DELAY 600
+STRING https://www.aetheros.computer/
+ENTER

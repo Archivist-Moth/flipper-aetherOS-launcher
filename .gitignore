@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Credentials — never commit login scripts with embedded strings
+*-login.txt
+*-credentials.txt

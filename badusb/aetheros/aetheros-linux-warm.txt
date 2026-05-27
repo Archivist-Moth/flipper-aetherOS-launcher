@@ -1,0 +1,7 @@
+REM AetherOS Launcher - Linux Warm Start
+REM Focuses browser address bar (browser must already be open and frontmost)
+REM Works with Chrome, Firefox, Brave, and most browsers
+CTRL l
+DELAY 400
+STRING https://www.aetheros.computer/
+ENTER
