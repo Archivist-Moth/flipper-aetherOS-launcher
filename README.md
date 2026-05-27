@@ -1,6 +1,6 @@
 # Flipper Zero — AetherOS Launcher
 
-BadUSB scripts for the Flipper Zero that open [Aether OS](https://www.aetheros.computer/) in the default browser on any machine the Flipper is plugged into.
+BadUSB scripts for the Flipper Zero that open [Aether OS](https://www.aetheros.computer/) in the default browser on any machine the Flipper is plugged into. Intended for personal use on hardware you own or have explicit permission to access. Like all BadUSB scripts, these automate keyboard input — only use them on machines you control.
 
 ---
 
